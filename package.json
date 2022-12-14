@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "portfolio",
-  "homepage": "http://khushbooag4.github.io/website_hackathon",
+  "homepage": "http://khushbooag4.github.io/website",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
