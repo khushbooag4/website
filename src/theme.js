@@ -107,7 +107,7 @@ export const greenTheme = {
   headerColor: "#07beb877",
 };
 
-export const orangeTheme = {
+export const lightTheme = {
   body: "#FFF0EA",
   text: "#99401F",
   highlight: "#FFB59A",

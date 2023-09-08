@@ -7,7 +7,7 @@ const settings = {
 const seo = {
   title: "Khushboo Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Computer Science Enthusiast on a Journey of Continuous Learning: Mastering Development and Data Analysis. Fun Fact: I learn things accidentally!",
   og: {
     title: "Portfolio Website",
     type: "website",
@@ -19,9 +19,9 @@ const greeting = {
   title: "Khushboo Agarwal",
   logo_name: "KhushbooAgarwal",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Computer Science Enthusiast on a Journey of Continuous Learning: Mastering Development and Data Analysis. Fun Fact: I learn things accidentally!",
   resumeLink:
-    "https://drive.google.com/file/d/1E8vIVMHtn4QtZtevf-2RdCnoyeT7YeZG/view?usp=sharing",
+    "https://drive.google.com/file/d/1urDveJG_jOT-ZVIwEEs62GXRTfLVq6I-/view?usp=sharing",
   githubProfile: "https://www.github.com/khushbooag4",
 };
 
