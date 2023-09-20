@@ -11,7 +11,7 @@ export default class Main extends Component {
   render() {
     return (
       <div>
-        <Router basename="/React">
+        <Router basename="/">
           <Switch>
             <Route
               path="/"
