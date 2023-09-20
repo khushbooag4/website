@@ -314,14 +314,14 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Data Analyst Intern",
+          title: "Data Informatics Analyst Intern",
           company: "ServiceNow",
           company_url: "https://www.servicenow.com/",
           logo_path: "now.png",
           duration: "Apr 2023 - May 2023",
           location: "Hyderabad, Telegana",
           description:
-            "As a part of their Product Analytics team, I have designed a rule simulator that empowers users to extract valuable insights through customized rules. This has effectively replaced the need for spontaneous data requests across 16 different departments. To accomplish this, I employed user-friendly UI scripting and harnessed the Now Platform, SQL, and Snowflake capabilities. Moreover, I integrated interactive reports and visualizations into the platform, greatly enhancing user engagement and facilitating data-informed decisions. As a result of these enhancements, the time needed for this process has been significantly shortened, decreasing from 6-8 weeks to just 2 weeks.",
+            "As a part of their Product Analytics team, I have designed a rule simulator that empowers users to extract valuable insights through customized patterns. This has effectively replaced the need for spontaneous data requests across 16 different departments. To accomplish this, I employed user-friendly UI scripting and harnessed the Now Platform, SQL, and Snowflake capabilities. Moreover, I integrated interactive reports and visualizations into the platform, greatly enhancing user engagement and facilitating data-informed decisions. As a result of these enhancements, the time needed for this process has been significantly shortened, decreasing from 6-8 weeks to just 2 weeks.",
           color: "#0879bf",
         },
         {
@@ -342,7 +342,8 @@ const experience = {
           logo_path: "samagra.jpeg",
           duration: "Jun 2022 -  Aug 2022",
           // location: "Pune, Maharashtra",
-          description: "",
+          description:
+            "Shortlisted as one of 13 contributors from over 300+ applicants nationwide for CodeForGovTech 2022 organized by Samagra, recognized for impactful contributions to digital public goods.",
           color: "#9b1578",
         },
         {
@@ -352,7 +353,7 @@ const experience = {
           logo_path: "sophy.jpeg",
           duration: "Jan 2022 - Mar 2022",
           location: "Jaipur, Rajasthan",
-          description: "",
+          description: "Worked on creating REST APIs in NodeJS language",
           color: "#fc1f20",
         },
       ],
@@ -367,7 +368,8 @@ const experience = {
           logo_path: "sih.jpeg",
           duration: "Mar 2022 - Aug 2022",
           location: "Bangalore, Karnataka",
-          description: "",
+          description:
+            "Our solution focuses on the challenging task of quickly identifying and showing human faces in videos given by Ministry of Defense DRDO, which is crucial for defense and security. Our team worked tirelessly and used advanced skills like Machine learning, Python, Amazon Web Services to create a solution that not only meets but surpasses the tough standards set by this important problem.",
           color: "#ee3c26",
         },
       ],
@@ -375,6 +377,15 @@ const experience = {
     {
       title: "Volunteerships",
       experiences: [
+        {
+          title: "Mentor - GDSC",
+          company: "Google Developer Student Clubs - WoC",
+          company_url: "https://gdsc.winterofcode.tech/",
+          logo_path: "gdsc.jpeg",
+          duration: "Jan 2023 - Mar 2023",
+          description: "",
+          color: "#4285F4",
+        },
         {
           title: "Mentee",
           company: "CLIMB (Connect Learn Inspire Mentor Belong)",

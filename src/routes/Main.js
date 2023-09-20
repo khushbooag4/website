@@ -20,7 +20,6 @@ export default class Main extends Component {
             />
             <Route
               path="/experience"
-              exact
               render={(props) => (
                 <Experience {...props} theme={this.props.theme} />
               )}
