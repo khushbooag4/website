@@ -13,6 +13,7 @@ import {
 } from "../../portfolio.js";
 import "./Projects.css";
 import ProjectsImg from "./ProjectsImg";
+import PublicationCard from "../../components/publication/PublicationCard";
 
 class Projects extends Component {
   render() {
@@ -85,11 +86,11 @@ class Projects extends Component {
           </div>
         ) : null}
 
-        {/* <div className="repo-cards-div-main">
+        <div className="repo-cards-div-main">
           {publications.data.map((pub) => {
             return <PublicationCard pub={pub} theme={theme} />;
           })}
-        </div> */}
+        </div>
 
         <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
         <TopButton theme={this.props.theme} />

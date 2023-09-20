@@ -59,8 +59,8 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using React-Redux",
-        "⚡ Debugging and testing teething bugs",
-        "⚡ Creating application backend in Node, Express",
+        "⚡ Debugging and testing bugs",
+        "⚡ Creating application backend in NodeJs, TypeScript or JavaScript",
       ],
       softwareSkills: [
         {
@@ -119,7 +119,7 @@ const skills = {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
+        "⚡ Experience working on cloud platforms like AWS",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
       ],
       softwareSkills: [

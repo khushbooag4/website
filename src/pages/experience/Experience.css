@@ -54,6 +54,20 @@
   font-family: "Google Sans Medium";
 }
 
+.experience-accord {
+  margin: 50px;
+}
+
+.accord-panel {
+  font-family: "Google Sans Regular";
+}
+
+@media (max-width: 768px) {
+  .experience-accord {
+    margin: 20px;
+  }
+}
+
 @media (max-width: 1380px) {
   .experience-heading-text {
     font-size: 50px;
