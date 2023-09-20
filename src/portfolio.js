@@ -124,24 +124,10 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
-        {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
           style: {
             color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
           },
         },
         {
@@ -163,13 +149,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:mongodb",
           style: {
             color: "#47A248",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
           },
         },
       ],
@@ -328,20 +307,32 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "It pays to be good. I worked with startups as a Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I'm skilled software developer with experience in JavaScript and TypeScript, and expertise in frameworks like React, Node.js and Vue. I'm a quick learner and want to develop scalable, reusable and user's friendly solutions.",
   header_image_path: "experience.png",
   sections: [
     {
       title: "Internships",
       experiences: [
         {
-          title: "Full Stack Intern",
+          title: "Data Analyst Intern",
+          company: "ServiceNow",
+          company_url: "https://www.servicenow.com/",
+          logo_path: "now.png",
+          duration: "Apr 2023 - May 2023",
+          location: "Hyderabad, Telegana",
+          description:
+            "As a part of their Product Analytics team, I have designed a rule simulator that empowers users to extract valuable insights through customized rules. This has effectively replaced the need for spontaneous data requests across 16 different departments. To accomplish this, I employed user-friendly UI scripting and harnessed the Now Platform, SQL, and Snowflake capabilities. Moreover, I integrated interactive reports and visualizations into the platform, greatly enhancing user engagement and facilitating data-informed decisions. As a result of these enhancements, the time needed for this process has been significantly shortened, decreasing from 6-8 weeks to just 2 weeks.",
+          color: "#0879bf",
+        },
+        {
+          title: "SDE(Full Stack) Intern",
           company: "GoEgonetwork",
           company_url: "https://www.goegonetwork.com/",
           logo_path: "goego.svg",
-          duration: "Mar 2022 - 0ct 2022",
+          duration: "Mar 2022 - Aug 2022",
           location: "Remote",
-          description: "",
+          description:
+            "Collaboratively contributing to the end-to-end process of designing, developing, and seamlessly integrating REST APIs, I've been an instrumental part of the team. My skills came to life as I crafted intricate features such as map views, dynamic triggers, and information tabs, harnessing the power of TypeScript, Node.js, Firebase, and Vue.js. Notably, my optimizations resulted in a remarkable 55% reduction in map loading latency, vastly enhancing user experience. Additionally, I exhibited my problem-solving acumen by resolving over 20 persistent bugs in their SaaS product.",
           color: "#0879bf",
         },
         {
